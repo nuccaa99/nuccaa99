@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nuccaa99
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript, HTML, CSS
+- 🌱 I’m currently learning React, JavaScript, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
